@@ -25,8 +25,11 @@ https://drive.google.com/drive/folders/1ZTIPaZGOzc-TZY3jbxl9KYQ0G5_tvU43?usp=sha
 3 - Agregamos una dependencia al cluster, este nos permitirá manipular archivos excel
 ![](https://scontent.flim1-4.fna.fbcdn.net/v/t39.30808-6/320884714_5887315704667898_9146768279147815981_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEyQ_G-PfuKpk-0ljqXRMdycpC_FyroPSlykL8XKug9KYTzVMTe6HaoVDexgkUW7u7wqnU6_tipMH03TZaTQwJZ&_nc_ohc=opMClSCY8E8AX-5r_to&_nc_zt=23&_nc_ht=scontent.flim1-4.fna&oh=00_AfCft7WuuA6o8vPEw6YJrdHQ6biAwLeqMgOD98K76MaYkw&oe=63CB9A96)
 
-4 - 
-
+4 - Nos movemos al bucket de nuestro proyecto donde veremos una carpeta DATA y otra DAGS
+    en DATA almacenaremos nuestros datos para que sean transformado y en DAGS subiremos nuestro script de python.
+ 
+![](https://scontent.flim1-4.fna.fbcdn.net/v/t39.30808-6/320188653_1191644625107653_4522313388171244259_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG1CGruhKdcAu2N7ebAGBrDxobk4CHOt0XGhuTgIc63Rc5r6Fmyw8YS35l82sE7Mfcgc24Dp67OyCql2thgpRjO&_nc_ohc=Q60wdJMBQEoAX-wSqHS&tn=zRTkmcXK30-BI3TQ&_nc_zt=23&_nc_ht=scontent.flim1-4.fna&oh=00_AfCFJTUCEGq9HYBZATZApsZfOcTUde_Jw6K1wH0Bi9zHZw&oe=63CBDC30)
+5 - continuara...
 
 
 
