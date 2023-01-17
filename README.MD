@@ -4,7 +4,7 @@ desde nuestro Data Lake (CLOUD STORAGE) a nuestro Data Ware House (Big Query), t
 de 3 nodos(maquinas virtuales) para la transformación de datos. 
 ## ADVERTENCIA 
 ###### ESTE PROYECTO TIENE COSTOS EN GCP
-![](https://scontent.flim2-2.fna.fbcdn.net/v/t39.30808-6/320879758_563737028424811_5873048063175280300_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGb_2l-UwAJEM8-mTSCD-rJWcqsgTRkGqJZyqyBNGQaosVCWazIRwotqxizy2MMURqnLhO5bXDVfRKJ-p3AbuK1&_nc_ohc=ahooAIAE4mkAX8iGKak&_nc_zt=23&_nc_ht=scontent.flim2-2.fna&oh=00_AfABwc9LInf2QRbvkPVJMGE1DUu3T5wcXEKdKfBuGknviQ&oe=63A490F8)
+![](https://scontent.flim1-4.fna.fbcdn.net/v/t39.30808-6/320879758_563737028424811_5873048063175280300_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGb_2l-UwAJEM8-mTSCD-rJWcqsgTRkGqJZyqyBNGQaosVCWazIRwotqxizy2MMURqnLhO5bXDVfRKJ-p3AbuK1&_nc_ohc=BpOP6tuNBXYAX-Z7Io4&tn=zRTkmcXK30-BI3TQ&_nc_zt=23&_nc_ht=scontent.flim1-4.fna&oh=00_AfCB7Wt2kL7vFPOVUFqXysImBcKl5t3SIuTsHFFvM-I-2A&oe=63CC1DF8)
 
 Los archivos planos para este proyecto lo tendran en google drive
 https://drive.google.com/drive/folders/1ZTIPaZGOzc-TZY3jbxl9KYQ0G5_tvU43?usp=sharing
