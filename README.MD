@@ -14,8 +14,8 @@ https://drive.google.com/drive/folders/1ZTIPaZGOzc-TZY3jbxl9KYQ0G5_tvU43?usp=sha
 
 ![](https://github.com/GianArthas/pipeline_etl_on-gcp/blob/main/capturas/pagina%20compositor.JPG?raw=true)
 
-2- Configuramos un cluster con 30 gb de memoria "es el minimo que permite gcp", 3 nodos "minimo", tipo de maquina N1  y le damos en crear
- Esto tarde aproximadamente 30 min en levantar la infraestructura.
+2- Configuramos un cluster con 30 gb de memoria "es el minimo que permite gcp", 3 nodos "minimo", tipo de maquina N1  y le damos en crear.
+ Esto tarda aproximadamente 30 min en levantar la infraestructura.
  ![](https://github.com/GianArthas/pipeline_etl_on-gcp/blob/main/capturas/configuracion%20cluster.JPG?raw=true)
 
 ![](https://github.com/GianArthas/pipeline_etl_on-gcp/blob/main/capturas/configuracion%20cluster%202.JPG?raw=true)
